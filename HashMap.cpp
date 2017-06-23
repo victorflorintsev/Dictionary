@@ -11,7 +11,7 @@ HashMap::HashMap(string filename) {
     while (in.is_open()) {
         while (in.good()) {
             getline(in,temp);
-
+            int 
         }
     }
 
