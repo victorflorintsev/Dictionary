@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Victor/CLionProjects/Dictionary/HashMap.cpp
+HashMap.h
+C:/Users/Victor/CLionProjects/Dictionary/HashMap.h
+
+C:/Users/Victor/CLionProjects/Dictionary/HashMap.h
+iostream
+-
+
+C:/Users/Victor/CLionProjects/Dictionary/main.cpp
+iostream
+-
+HashMap.h
+C:/Users/Victor/CLionProjects/Dictionary/HashMap.h
+
